@@ -1,5 +1,4 @@
-# UFOs 
-Module 11 / UFO sightings with Javascript
+# UFOs Module 11 / UFO sightings with Javascript
 
 ## Overview of Project: Explain the purpose of this analysis. 
 For this module we built an HTML page that allowed us to pull up information from a javascript(JS) data file using filters on the page---the content within this html file are UFO sightings related. We had to use filters since there were many different sightings that occurred throughout the U.S., such as from different areas or what type of shape of the UFO sightings 
